@@ -1,6 +1,7 @@
 # Vietlott Mega 6/45 Prediction: LSTM with Attention Mechanism
 
 **Author:** Le Ngoc Minh
+
 **Project Focus:** Time Series Forecasting, Deep Learning, Financial Prediction
 
 The model is trained on historical draw data to capture sequential dependencies, aiming to predict 1-2 correct numbers on average per subsequent draw.
