@@ -1,7 +1,9 @@
-# Vietlott Mega 6/45 Lottery Prediction using LSTM Model
+# Vietlott Mega 6/45 Prediction: LSTM with Attention Mechanism
 
-## 🎯 Project Goal
-This project aims to develop a sequential deep learning model to forecast the winning numbers of the Vietlott Mega 6/45 lottery, which is a significant time-series problem.
+**Author:** Le Ngoc Minh
+**Project Focus:** Time Series Forecasting, Deep Learning, Financial Prediction
+
+The model is trained on historical draw data to capture sequential dependencies, aiming to predict 1-2 correct numbers on average per subsequent draw.
 
 ## ✨ Key Features & Performance
 - **Model Architecture:** Utilizes a **Long Short-Term Memory (LSTM)** network enhanced with an **Attention Mechanism** to better capture long-range dependencies in the historical draw data.
